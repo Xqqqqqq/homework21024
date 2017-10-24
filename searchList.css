@@ -1,0 +1,46 @@
+#app{
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+#head{
+    width: 400px;
+    background-color: rgb(67,128,165);
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+#head1{
+    background-image: url(fangda.png);
+    background-position: 5px 0;
+    background-repeat:no-repeat;
+    width: 320px;
+    height: 25px;
+    font-size:15px;
+    padding-left: 40px;
+    border-radius: 3px;
+}
+#content{
+    width: 390px;
+    margin-top: 20px;
+    box-sizing: border-box;
+}
+.divs{
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.imgs{
+    width:120px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.titles{
+    font-size:15px;
+    color:gray;
+}
